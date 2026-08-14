@@ -151,6 +151,8 @@ $docker run -d -p 8080:80 --name web-8080 my-custom-web:1.0$ curl http://localho
 
 * **브라우저 접속 화면:**
 *(브라우저 주소창에 `http://localhost:8080` 입력 시 `Hello from Codyssey Custom Web Server!` 정상 출력 확인)*
+* **브라우저 접속 화면:**
+![브라우저 접속 화면](./screenshot/img1.png)
 
 ### 3.5 데이터 영속성(Volume) 및 백업 전략
 
